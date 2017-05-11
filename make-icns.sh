@@ -9,6 +9,7 @@ set -o verbose
 cd "$( dirname "${BASH_SOURCE[0]}" )"
 THIS_DIR=`pwd`
 
+rm -rf tellurium.iconset
 mkdir -p tellurium.iconset
 rsync -av telogo6/*.png tellurium.iconset
-iconutil -c icons tellurium.iconset
+iconutil -c icns tellurium.iconset
