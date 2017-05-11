@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 202.25447 147.6875"
+   height="1.6409723in"
+   width="2.2472718in"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="telogo.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3386"
+     showgrid="false"
+     inkscape:zoom="2.3029597"
+     inkscape:cx="64.049543"
+     inkscape:cy="71.894153"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-28.90625,-891.16293)"
+     id="layer1">
+    <path
+       id="path4147"
+       transform="translate(28.90625,891.16292)"
+       d="M 165.24805 0 L 0 0.015625 L 36.601562 65.408203 C 24.310813 65.156346 3.3554688 64.730469 3.3554688 64.730469 L 3.0585938 81.96875 L 45.300781 80.955078 L 82.652344 147.6875 L 120.99023 79.136719 L 135.46875 78.789062 C 138.50447 102.44977 150.19892 116.31888 166.00391 119.85938 C 181.8089 123.39987 202.25391 114.05665 202.25391 90.931641 C 202.25391 67.806623 181.36217 62.181913 172.43359 70.039062 C 163.50502 77.896202 166.36189 95.351009 178.32617 95.574219 C 190.29045 95.797429 191.53989 81.735482 183.86133 76.914062 C 194.21847 80.128342 194.84375 108.34149 173.59375 109.85938 C 152.34375 111.37717 146.67119 79.693497 146.54492 75.210938 C 146.41865 70.728388 145.03031 67.382213 141.43164 67.445312 C 140.89522 67.454723 133.1357 67.305263 127.66211 67.207031 L 165.24805 0 z M 15.3125 9.7714844 L 149.88867 9.7929688 L 117.85742 67.037109 C 95.268418 66.603353 71.78652 66.127489 46.603516 65.613281 L 15.3125 9.7714844 z M 110.95312 79.376953 L 82.65625 129.94922 L 55.070312 80.720703 L 110.95312 79.376953 z "
+       style="fill:#ff8657;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
